@@ -1,4 +1,4 @@
-# DCC041 - Robótica Móvel
+# DCC041 - Introdução a Robótica
 
 Nesse repositório encontram-se os materiais da aula Introdução a Robotica no DCC/UFMG.
 
