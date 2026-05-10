@@ -26,5 +26,10 @@ Não menos importante, o segundo objetivo do curso é prover ao aluno conceitos 
 | FreeCAD Interface Sketch                         |  [Slides](https://drive.google.com/file/d/1t61aoo7QLwMfvV8XW4ExIqN-V28F3Q8l/view?usp=drive_link) |                    |
 | Descrição espacial e transformacões rígidas (1/2)                         |  [Slides](https://drive.google.com/file/d/1LSVShnrL3DkNpq5D22GtKN4ROYjpLHn2/view?usp=drive_link) |                    |
 | Descrição espacial e transformacões rígidas (2/2)                         |  [Slides](https://drive.google.com/file/d/1bHARHFYqskHKURUQBwJ6wQufrgZhOYN6/view?usp=drive_link) |                    |
+| Cinemática Direta                         |  [Slides](https://drive.google.com/file/d/157y9JFO38lq-WTtodpzOFRaLNgG2vF3n/view?usp=sharing) |                    |
+| Cinemática Inversa                        |  [Slides](https://drive.google.com/file/d/157y9JFO38lq-WTtodpzOFRaLNgG2vF3n/view?usp=sharing) |                    |
+| Locomoção                         |  [Slides](https://drive.google.com/file/d/1aiCNSyqWzb_Ho4HcNE-7WcdNm5CxW86K/view?usp=sharing) |                    |
+
+
 
 
